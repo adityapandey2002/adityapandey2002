@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya Pandey
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/adityapandey2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/aditya-pandey-083a55233)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/adityapandey2002)
 
 ---
