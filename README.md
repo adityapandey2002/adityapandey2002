@@ -74,7 +74,7 @@ Contributed to open source; gained hands-on experience with 3D printing processe
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/adityapandey2002)
+- [LinkedIn](www.linkedin.com/in/aditya-pandey-083a55233)
 - [GitHub](https://github.com/adityapandey2002)
 - **Email:** adityapandey.adu@gmail.com
 
