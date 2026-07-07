@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapandey-083a55233)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
-**Full-Stack Developer & Public Health Data Analyst | Muzaffarpur / Pondicherry, India**
+**Full-Stack Developer & Public Health Data Analyst | Muzaffarpur, Bihar, India**
 
 ---
 
@@ -39,8 +39,6 @@ I am a data professional and full-stack developer bridging the gap between robus
 ## 📫 Contact
 * **Email:** adityapandey.adu@gmail.com
 * **LinkedIn:** [/in/adityapandey-083a55233](https://linkedin.com/in/adityapandey-083a55233)
-* **Twitter / Instagram:** `[@YourHandle Placeholder]`
-* **Personal Website:** `[your-portfolio.com Placeholder]`
 
 ## ⚡ Fun Facts
 * I love exploring new destinations and capturing my travels through photography.
