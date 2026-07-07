@@ -23,12 +23,14 @@ I am a data professional and full-stack developer bridging the gap between robus
 * **Dev & Field Tools:** Git/GitHub, Nginx, PM2, Postman, ODK Collect & Central
 
 ## 🌟 Projects
-* **Health Data & VL/PKDL Tracker** | *Python, Pandas, Matplotlib* | `https://github.com/adityapandey2002/PIRAMAL_SWASTHYA_DATA_ANALYSIS`
+* **Bihar Ka Swaad (E-commerce Platform)** | *MongoDB, Express.js, React.js, Node.js* | [View Code](https://github.com/adityapandey2002/BKS/tree/main/ecommmerce_mern)
+  * Built and deployed an end-to-end MERN stack web application featuring JWT authentication, CRUD operations, and protected routes.
+  * Configured production deployment on a VPS utilizing Nginx, PM2, and SSL certificates.
+* **Applied Data Science Capstone** | *Python, SQL, Dash, Plotly* | [View Code](https://github.com/adityapandey2002/APPLIED_DATA_SCIENCE_CAPSTONE)
+  * Scraped, cleaned, and explored SpaceX Falcon 9 launch data using REST APIs, Pandas, and SQLite.
+  * Built classification models to predict landing success and developed an interactive dashboard for real-time exploration.
+* **Health Data Tracker** | *Python, Pandas, Matplotlib* | [View Code]((https://github.com/adityapandey2002/PIRAMAL_SWASTHYA_DATA_ANALYSIS))
   * Cleaned multi-source health data pipelines to flag quality issues and built actionable visual reports for public health stakeholders.
-* **Airbnb Clone** | *MongoDB, Express.js, Node.js, Tailwind CSS* | `[Link Placeholder]`
-  * Full-stack booking platform featuring secure user authentication, cross-device compatibility, and a comprehensive admin dashboard.
-* **Social Media Application** | *React.js, Bootstrap, React Router DOM* | `[Link Placeholder]`
-  * Responsive frontend platform engineered with a modular component architecture for real-time interactions and profile management.
 
 ## 🤝 Open To
 * Collaborations on civic tech, data-driven dashboards, and health-tech projects.
