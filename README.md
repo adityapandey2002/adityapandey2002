@@ -29,7 +29,7 @@ I am a data professional and full-stack developer bridging the gap between robus
 * **Applied Data Science Capstone** | *Python, SQL, Dash, Plotly* | [View Code](https://github.com/adityapandey2002/APPLIED_DATA_SCIENCE_CAPSTONE)
   * Scraped, cleaned, and explored SpaceX Falcon 9 launch data using REST APIs, Pandas, and SQLite.
   * Built classification models to predict landing success and developed an interactive dashboard for real-time exploration.
-* **Health Data Tracker** | *Python, Pandas, Matplotlib* | [View Code]((https://github.com/adityapandey2002/PIRAMAL_SWASTHYA_DATA_ANALYSIS))
+* **Health Data Tracker** | *Python, Pandas, Matplotlib* | [View Code](https://github.com/adityapandey2002/PIRAMAL_SWASTHYA_DATA_ANALYSIS)
   * Cleaned multi-source health data pipelines to flag quality issues and built actionable visual reports for public health stakeholders.
 
 ## 🤝 Open To
