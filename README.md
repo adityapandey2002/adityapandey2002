@@ -23,7 +23,7 @@ I am a data professional and full-stack developer bridging the gap between robus
 * **Dev & Field Tools:** Git/GitHub, Nginx, PM2, Postman, ODK Collect & Central
 
 ## 🌟 Projects
-* **Health Data & VL/PKDL Tracker** | *Python, Pandas, Matplotlib* | `[Link Placeholder]`
+* **Health Data & VL/PKDL Tracker** | *Python, Pandas, Matplotlib* | `https://github.com/adityapandey2002/PIRAMAL_SWASTHYA_DATA_ANALYSIS`
   * Cleaned multi-source health data pipelines to flag quality issues and built actionable visual reports for public health stakeholders.
 * **Airbnb Clone** | *MongoDB, Express.js, Node.js, Tailwind CSS* | `[Link Placeholder]`
   * Full-stack booking platform featuring secure user authentication, cross-device compatibility, and a comprehensive admin dashboard.
