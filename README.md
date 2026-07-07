@@ -21,7 +21,6 @@ I am a data professional and full-stack developer bridging the gap between robus
 * **Frameworks & Libraries:** React.js, Node.js, Express.js, Pandas, Plotly, Bootstrap, Tailwind CSS
 * **Databases:** MongoDB, SQL/SQLite
 * **Dev & Field Tools:** Git/GitHub, Nginx, PM2, Postman, ODK Collect & Central
-* **Multimedia Tools:** Lightroom/Photoshop (Photography), Content Creation & Video Editing Software
 
 ## 🌟 Projects
 * **Health Data & VL/PKDL Tracker** | *Python, Pandas, Matplotlib* | `[Link Placeholder]`
